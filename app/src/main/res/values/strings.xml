@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">krsmy</string>
+    <string name="first_name_label">Ime</string>
+    <string name="last_name_label">Prezime</string>
+    <string name="instrument_label">Instrument</string>
+    <string name="add_member_button_label">Dodaj člana</string>
+</resources>
